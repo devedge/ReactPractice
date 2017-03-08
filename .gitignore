@@ -37,3 +37,4 @@ jspm_packages
 .node_repl_history
 
 yelpexample/node_modules
+routed-react/node_modules
