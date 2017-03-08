@@ -1,2 +1,2 @@
 # ReactPractice
-Repo for archiving practice using React
+Repo for archiving practice work with React
